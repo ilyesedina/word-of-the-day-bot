@@ -1,0 +1,113 @@
+afklaring;clarification;The process of making something clearer or less confusing.
+aftaler;agreements;A negotiated and typically legally binding arrangement between parties.
+almindeligt;common/ordinary;Occurring, found, or done often; prevalent.
+analyse;analysis;Detailed examination of the elements or structure of something.
+anbefaling;recommendation;A suggestion or proposal as to the best course of action.
+ansvar;responsibility;The state or fact of having a duty to deal with something or of having control over someone.
+arbejde;work/job;Activity involving mental or physical effort done in order to achieve a purpose or result.
+arbejdsplads;workplace;A place where people work, such as an office or factory.
+argumentation;argumentation;The action or process of reasoning systematically in support of an idea, action, or theory.
+begrænsning;limitation;A limiting rule or circumstance; a restriction.
+beskrivelse;description;A spoken or written representation or account of a person, object, or event.
+beskrivelse;description;A spoken or written representation or account of a person, object, or event.
+beslutning;decision;A conclusion or resolution reached after consideration.
+bestemt;specific/certain;Clearly defined or identified.
+budget;budget;An estimate of income and expenditure for a set period of time.
+bæredygtighed;sustainability;The ability to be maintained at a certain rate or level, often relating to environment.
+detalje;detail;An individual feature, fact, or item.
+dialog;dialogue;A conversation between two or more people.
+diskussion;discussion;The action or process of talking about something to reach a decision or to exchange ideas.
+drømme;dreams;A series of thoughts, images, and sensations occurring in a person's mind during sleep.
+eksempel;example;A thing characteristic of its kind or illustrating a general rule.
+erfaring;experience;Practical contact with and observation of facts or events.
+evaluering;evaluation;The making of a judgment about the amount, number, or value of something; assessment.
+feedback;feedback;Information about reactions to a product or a person's performance of a task, used for improvement.
+forbedring;improvement;A change or process of change that makes something better.
+fordel;advantage;A condition or circumstance that puts one in a favorable or superior position.
+forklaring;explanation;A statement or account that makes something clear.
+forklaring;explanation;A statement or account that makes something clear.
+fornuftigt;sensible/reasonable;Done or chosen in accordance with wisdom or prudence; likely to be of benefit.
+forslag;suggestion/proposal;An idea or plan put forward for consideration.
+forståelse;understanding;The ability to understand something; comprehension.
+fortid;past;The time before the moment of speaking or writing.
+forventninger;expectations;A strong belief that something will happen or be the case in the future.
+fremtid;future;The time or a period of time following the moment of speaking or writing.
+frivillighed;volunteering;Freely offering to do something for others, often without pay.
+fællesskab;community;A group of people living in the same place or having a particular characteristic in common.
+færdigheder;skills;The ability to do something well; expertise.
+følelser;feelings/emotions;An emotional state or reaction.
+glæde;joy/happiness;A feeling of great pleasure and happiness.
+handling;action;The fact or process of doing something, typically to achieve an aim.
+holdning;attitude;A settled way of thinking or feeling about someone or something.
+hverdagsliv;everyday life;The typical aspects of life that happen on a daily basis.
+identitet;identity;The fact of being who or what a person or thing is.
+integration;integration;The action or process of integrating or of being integrated.
+klima;climate;The long-term weather patterns in an area, or the general mood of a place or situation.
+kommunikation;communication;The imparting or exchanging of information or news.
+kompetencer;competencies;The ability to do something successfully or efficiently.
+kompliceret;complicated;Consisting of many interconnecting parts or elements; intricate.
+konklusion;conclusion;The end or finish of an event or process; a judgment or decision reached by reasoning.
+kost;diet;The kinds of food that a person, animal, or community habitually eats.
+krav;requirement/demand;A thing that is needed or wanted; a condition that must be met.
+kultur;culture;The arts and other manifestations of human intellectual achievement regarded collectively.
+lovgivning;legislation;Laws, considered collectively.
+løsning;solution;A means of solving a problem or dealing with a difficult situation.
+mangfoldighed;diversity;The state of being diverse; variety.
+mening;meaning/opinion;What is meant by a word, text, concept, or action; a view or judgment formed about something.
+miljø;environment;The surroundings or conditions in which a person, animal, or plant lives or operates.
+misforståelse;misunderstanding;A failure to understand something correctly.
+motion;exercise;Activity requiring physical effort, carried out to sustain or improve health and fitness.
+mulighed;opportunity/possibility;A set of circumstances that makes it possible to do something.
+muligvis;possibly/perhaps;Used to express uncertainty or possibility.
+mål;goal/objective;The object of a person's ambition or effort; an aim or desired result.
+natur;nature;The physical world collectively, including plants, animals, the landscape, and other features of the earth.
+nemt;easy;Achieved without great effort; presenting few difficulties.
+nutid;present;The period of time now occurring.
+opfattelse;perception;The way in which something is regarded, understood, or interpreted.
+oplevelse;experience;An event or occurrence which leaves an impression on someone.
+opsummering;summary;A brief statement or account of the main points of something.
+overraskelse;surprise;An unexpected or astonishing event, fact, or thing.
+perspektiv;perspective;A particular attitude toward or way of regarding something; a point of view.
+planlægning;planning;The process of making plans for something.
+pligter;duties;A moral or legal obligation; a responsibility.
+praktisk;practical;Of or concerned with the actual doing or use of something rather than with theory and ideas.
+prioritering;prioritization;The action or process of deciding the relative importance or urgency of a thing or things.
+problemstilling;problem statement;A concise description of an issue to be addressed or a condition to be improved upon.
+regler;rules;One of a set of explicit or understood regulations or principles governing conduct.
+rejse;journey/travel;An act of traveling from one place to another.
+relationer;relations;The way in which two or more people or things are connected; a thing's effect on or relevance to another.
+retningslinjer;guidelines;A general rule, principle, or piece of advice.
+rettigheder;rights;A moral or legal entitlement to have or obtain something or to act in a certain way.
+rutiner;routines;A sequence of actions regularly followed; a fixed program.
+samarbejde;cooperation/collaboration;The process of working together to the same end.
+samfund;society;The aggregate of people living together in a more or less ordered community.
+sammenhæng;context/cohesion;The circumstances that form the setting for an event, statement, or idea.
+samtale;conversation;A talk, especially an informal one, between two or more people.
+sandsynligvis;probably/likely;Almost certainly; as far as one knows or can tell.
+scenarie;scenario;A postulated sequence or development of events.
+situation;situation;A set of circumstances in which one finds oneself; a state of affairs.
+sjældent;rarely/seldom;Not occurring often.
+sorg;grief/sorrow;Deep sorrow, especially that caused by someone's death.
+struktur;structure;The arrangement of and relations between the parts or elements of something complex.
+sundhed;health;The state of being free from illness or injury.
+svært;difficult/hard;Needing much effort or skill to accomplish, deal with, or understand.
+synspunkt;point of view;A particular attitude or way of considering a matter.
+særligt;especially/particularly;Used to single out one person, thing, or situation over all others.
+teoretisk;theoretical;Concerned with or involving the theory of a subject or area of study rather than its practical application.
+tidspunkt;point in time;A particular moment or hour.
+tilpasning;adaptation/adjustment;The action or process of adapting or being adapted.
+transport;transportation;The movement of humans, animals or goods from one location to another.
+trivsel;well-being;The state of being comfortable, healthy, or happy.
+tryghed;safety/security;The condition of being protected from or unlikely to cause danger, risk, or injury.
+typisk;typical;Having the distinctive qualities of a particular type of person or thing.
+uddannelse;education;The process of receiving or giving systematic instruction, especially at a school or university.
+udfordring;challenge;A task or situation that tests someone's abilities.
+udtryk;expression;The process of making known one's thoughts or feelings.
+udvikling;development;The process of developing or being developed.
+ulempe;disadvantage;An unfavorable circumstance or condition that reduces the chances of success or effectiveness.
+usikkerhed;uncertainty;The state of being uncertain.
+vaner;habits;A settled or regular tendency or practice, especially one that is hard to give up.
+vrede;anger;A strong feeling of annoyance, displeasure, or hostility.
+ændring;change;An act or process through which something becomes different.
+økonomi;economy/finance;The state of a country or region in terms of the production and consumption of goods and services and the supply of money.
+
