@@ -4,8 +4,6 @@ import os
 import discord
 from dotenv import load_dotenv
 from discord.ext import commands
-import random
-import datetime
 from datetime import date
 
 load_dotenv()
