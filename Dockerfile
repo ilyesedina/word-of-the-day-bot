@@ -1,6 +1,9 @@
 # Use a Python base image compatible with Raspberry Pi (ARM architecture)
 FROM python:3.9-slim-bullseye
 
+# Install build tools
+RUN apt-get update && apt-get install -y --no-install-recommends build-essential
+
 # Set the working directory in the container
 WORKDIR /app
 
