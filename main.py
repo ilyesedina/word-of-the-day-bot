@@ -5,6 +5,7 @@ import discord
 from dotenv import load_dotenv
 from discord.ext import commands
 from pathlib import Path
+from typing import List, Optional, Tuple
 
 load_dotenv()
 token = os.environ.get("discordToken")
@@ -16,11 +17,11 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='/', intents=intents)
 
 _WORDLIST_PATH = Path(__file__).with_name('wordlist.txt')
-_word_lines: list[str] | None = None
+_word_lines: Optional[List[str]] = None
 _word_index = 0
 
 
-def _load_word_lines() -> list[str]:
+def _load_word_lines() -> List[str]:
     global _word_lines, _word_index
 
     if _word_lines is not None:
@@ -36,7 +37,7 @@ def _load_word_lines() -> list[str]:
     _word_index = 0
     return _word_lines
 
-def get_word_of_the_day():
+def get_word_of_the_day() -> Tuple[str, str, str]:
     """Reads and parses a word from the wordlist file.
 
     Loads all words once, then returns the next line each call.
