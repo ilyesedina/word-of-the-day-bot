@@ -6,7 +6,6 @@ afklaring;clarification;The process of making something clearer or less confusin
 aftaler;agreements;A negotiated and typically legally binding arrangement between parties.
 akillessene;Achilles tendon;The strong tendon connecting the calf muscles to the heel bone.
 albue;elbow;The joint between the upper arm and the lower arm.
-albue;elbow;The joint between the upper arm and the lower arm.
 almen forståelse;general understanding;A broad comprehension of a subject or situation.
 almeligt;common/ordinary;Occurring, found, or done often; prevalent.
 analyse;analysis;Detailed examination of the elements or structure of something.
@@ -24,7 +23,6 @@ at børste tænder;to brush teeth;To clean teeth using a toothbrush.
 at falde;to fall;To move downward or decrease.
 at fordøje;to digest;To break down food in the body.
 at få bøjle på;to get braces;To have braces fitted to straighten teeth.
-at gå af led;dislocate;When a bone is forced out of its normal position in a joint.
 at gå af led;dislocate;When a bone is forced out of its normal position in a joint.
 at perspektivere;to put into perspective;To consider something in relation to a broader context.
 at problematisere;to problematize;To examine or present something as a problem.
@@ -46,7 +44,6 @@ borgerinddragelse;citizen involvement;The involvement of citizens in societal or
 briste;rupture;To tear or break suddenly.
 bremse (op);brake (slow down);To reduce speed or stop a vehicle.
 brud;fracture;A break in a bone.
-brud;fracture;A break in a bone.
 budget;budget;An estimate of income and expenditure for a period of time.
 båndsskade;ligament injury;Damage to the ligaments that stabilize a joint.
 bæredygtighed;sustainability;The ability to maintain systems at a certain level, especially environmentally.
@@ -61,7 +58,6 @@ diskussion;discussion;Exchange of ideas to reach understanding or decisions.
 diversitet/mangfoldighed;diversity;The presence of variety and differences.
 drømme;dreams;Thoughts and images experienced during sleep.
 eksempel;example;Something that illustrates a general rule.
-elastisk;elastic;Able to stretch or bend and return to its original shape.
 elastisk;elastic;Able to stretch or bend and return to its original shape.
 en bedøvelse;anesthetic;A substance or treatment that removes pain sensation.
 en blære;bladder;An organ that stores urine.
@@ -112,7 +108,6 @@ forbinding;bandage;A strip of material used to cover or support an injured area.
 forklaring;explanation;A statement that makes something clear.
 fornuftigt;sensible/reasonable;Based on good judgment.
 forstuvning;sprain;An injury caused by twisting a joint and stretching ligaments.
-forstuvning;sprain;An injury caused by twisting a joint and stretching ligaments or tendons.
 forslag;suggestion/proposal;An idea put forward for consideration.
 forståelse;understanding;The ability to comprehend something.
 fortid;past;Time before the present.
@@ -126,10 +121,7 @@ fællesskab;community;A group sharing common characteristics or interests.
 færdigheder;skills;Abilities to do something well.
 følelser;feelings/emotions;Emotional states or reactions.
 følelsesmæssig intelligens;emotional intelligence;Ability to understand and manage emotions.
-genoptræne;rehabilitate;To train again in order to regain strength or movement after injury.
 genoptræne;rehabilitate;To restore movement and strength after an injury.
-genoptræne;rehabilitate;To restore movement and strength after an injury.
-gips;cast;A hard covering used to keep a broken bone in place while it heals.
 gips;cast;A hard covering used to keep a broken bone in place while it heals.
 glæde;joy/happiness;A feeling of great pleasure or happiness.
 gravid;pregnant;Expecting a baby.
@@ -142,9 +134,7 @@ humpe;limp;To walk with difficulty because of an injured leg or foot.
 hverdagsliv;everyday life;Daily routines and activities.
 hævet;swollen;Larger than normal due to injury or fluid buildup.
 håndled;wrist;The joint connecting the hand and the arm.
-håndled;wrist;The joint connecting the hand and the arm.
 hørelse;hearing;The sense used to perceive sound.
-hyppig;frequent;Happening often.
 hyppig;frequent;Happening often.
 hyppigste;most frequent;Occurring most often.
 identitet;identity;Who or what a person is.
@@ -158,9 +148,7 @@ informationsudveksling;information exchange;Sharing of information or data.
 integration;integration;Inclusion of different groups into a whole.
 klima;climate;Long-term weather patterns or atmosphere.
 knoglebrud;bone fracture;A break or crack in a bone.
-knoglebrud;bone fracture;A break or crack in a bone.
 knoglevæv;bone tissue;The tissue that makes up bones.
-knoglevæv;bone tissue;The material that bones are made of.
 kommunikation;communication;Exchange of information or ideas.
 kompetencer;competencies;Skills needed to perform tasks effectively.
 kompliceret;complicated;Having many interconnected parts.
@@ -197,16 +185,12 @@ nemt;easy;Not difficult to do.
 normkritik;critique of norms;Questioning social norms.
 nutid;present;Current time.
 nødvendigt;necessary;Required or needed.
-nødvendigt;necessary;Required or needed.
 offentlig debat;public debate;Societal discussion of public issues.
 operere;operate (surgically);To treat by surgery.
-operere;operate (surgically);To treat an injury through surgery.
-operere;operate (surgically);To treat an injury through surgery.
 opfattelse;perception;How something is understood.
 opgang;stairwell;The shared staircase area in an apartment building.
 oplevelse;experience;An event that leaves an impression.
 opsummering;summary;Brief overview of main points.
-overarmsknogle;upper arm bone;The bone between the shoulder and the elbow.
 overarmsknogle;upper arm bone;The bone between the shoulder and the elbow.
 overhale;overtake;To pass another vehicle driving in the same direction.
 overraskelse;surprise;Unexpected event.
@@ -215,7 +199,6 @@ overstrække;overstretch;To stretch beyond the normal limit.
 parodontose;periodontitis;A serious gum disease affecting tooth support.
 perspektiv;perspective;Point of view.
 placere;place;To put something in a specific position.
-placere;place;To put something in a particular position.
 planlægning;planning;Organizing future actions.
 pligter;duties;Responsibilities or obligations.
 praktisk;practical;Focused on action rather than theory.
@@ -231,11 +214,9 @@ rehabilitering;rehabilitation;The process of recovery after injury or illness.
 retningslinjer;guidelines;General rules or advice.
 rettigheder;rights;Legal or moral entitlements.
 revne;crack;A small split or fracture in a bone.
-revne;crack;A small split or fracture in a bone.
 rive over;tear apart;To tear completely or partially.
 rutiner;routines;Regularly followed actions.
 rutineret;experienced;Having a lot of practice or skill in something.
-røntgenbillede;X-ray image;An image used to see inside the body, especially bones.
 røntgenbillede;X-ray image;An image used to see inside the body, especially bones.
 samarbejde;cooperation/collaboration;Working together toward a goal.
 samfund;society;Organized community of people.
@@ -250,11 +231,8 @@ situation;situation;State of affairs.
 sjældent;rarely/seldom;Not often occurring.
 skadestue;emergency room;A hospital department for acute injuries.
 skelne;distinguish;To recognize the difference between things.
-skelne;distinguish;To recognize the difference between things.
-skulderled;shoulder joint;The joint connecting the arm to the shoulder.
 skulderled;shoulder joint;The joint connecting the arm to the shoulder.
 skælde ud;scold;To speak angrily to someone.
-slynge;sling;A fabric support used to hold an injured arm still.
 slynge;sling;A fabric support used to hold an injured arm still.
 smagssans;sense of taste;The sense used to detect flavors.
 sorg;grief/sorrow;Deep sadness.
@@ -266,7 +244,6 @@ støtte på;put weight on;To rest body weight on a limb.
 sundhed;health;Freedom from illness.
 sundhedsfremmende;health-promoting;Improving health.
 svært;difficult/hard;Requiring effort or skill.
-symptom;symptom;A sign that indicates injury or illness.
 symptom;symptom;A sign that indicates injury or illness.
 syn;vision;The sense used to see.
 synspunkt;point of view;Personal perspective.
@@ -297,7 +274,6 @@ valgår;election year;Year of political elections.
 vaner;habits;Regular practices.
 velhavende;wealthy;Having a lot of money or resources.
 vrede;anger;Strong feeling of annoyance.
-vokset sammen;grown together;Describes bones that have healed and rejoined.
 vokset sammen;grown together;Describes bones that have healed and rejoined.
 væbne sig med tålmodighed;arm oneself with patience;To prepare mentally to wait calmly for recovery.
 værdipolitik;value politics;Politics focused on values.
